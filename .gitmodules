@@ -1,0 +1,6 @@
+[submodule "ACBr"]
+	path = ACBr
+	url = https://github.com/ProjetoACBr/ACBr.git
+[submodule "fortesreport-ce"]
+	path = fortesreport-ce
+	url = https://github.com/fortesinformatica/fortesreport-ce.git
