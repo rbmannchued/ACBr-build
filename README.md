@@ -2,7 +2,7 @@
 
 Script para facilitar a compilação das ACBrLib sem a necessidade da instalação da IDE Lazarus completa.
 
-OBS: A widget lib usada nos scripts é o qt6, para mudar, apenas edite a variavel ``WIDGETSET`` do script que pretende usar, para gtk2, gtk3, qt5... talvez seja necessário instalar mais alguma dependência.
+OBS: A widget lib usada nos scripts é o qt6, para mudar, apenas edite a variavel ``WIDGETSET`` do script que pretende usar para gtk2, gtk3, qt5... talvez seja necessário instalar mais alguma dependência.
 
 # Como usar
 
